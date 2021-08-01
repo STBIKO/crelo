@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Crelo",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
